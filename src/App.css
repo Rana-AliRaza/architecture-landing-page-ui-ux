@@ -1,0 +1,15 @@
+.slick-dots {
+    bottom: -60px; /* Adjust the position of the dots if needed */
+  }
+  
+
+  
+  .slick-dots li.slick-active button:before {
+    color: #E75656; /* Color of the active dot */
+  }
+
+  .admissionProcedure{
+    background: url("./assets/school//img/admission-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
